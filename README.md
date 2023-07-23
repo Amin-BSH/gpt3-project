@@ -1,4 +1,4 @@
 # gpt-3
-responsive template
+this template is responsive.\n
 you can see this template with this url :
 http://gpt3.amindevdomain.ir/
